@@ -108,5 +108,5 @@ Welcome to the Canteen System!
 Enter your choice (1-6): 6
 
 --------------------------------------
-Thank you for using the Canteen System. Goodbye!
+Thank you for using the Canteen System.
 --------------------------------------
